@@ -3,6 +3,7 @@
 > 基于 Spring Boot 3 + Vue 3 的 AI 创作平台：通过多智能体（Agent）协作完成"资料检索 → 写作 → 审校"的完整创作流程，SSE 流式输出，前端逐字展示。
 
 **在线演示（前端）**：https://dcz329.github.io/article-agent-system/
+> 说明：GitHub Pages 为纯静态托管，无 Java 后端。打开后前端自动进入**演示模式**（内置数据跑通登录/创作/流式展示全流程）；本地启动后端后即为真实功能（DeepSeek v4 流式生成）。
 
 ## ✨ 亮点
 
